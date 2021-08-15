@@ -24,18 +24,61 @@
     font-size:xx-large;
     font-weight: bolder;    
 }
+.ujpest1 {
+    font-size: 100%;
+    color:black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ujpest2 {
+    font-size: 100%;
+    color:black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ujpest3 {
+    font-size: 100%;
+    color:black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ujpest4 {
+    font-size: 100%;
+    font-style: oblique;
+    color:black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ujpest5 {
+    font-size: 100%;
+    color:black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ujpest6 {
+    font-size: 100%;
+    color:black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ujpest7 {
+    font-size: 100%;
+    color:black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 .gomb1 {
     font-family:CA, Helvetica, sans-serif;
     background-color: hsla(214, 79%, 50%, 0.535); /* Green */
     border: 1px;
     border-style: solid;
     color: black;
-    padding:0 0 0 0;
+    padding:0;
     text-align: center;
     display: inline-block;
     font-size:xx-large;
     font-weight: bolder;
-    margin: 33px 8px;
+    margin: 24px 2px;
     cursor: pointer;
     border-radius: 24px;
   }
