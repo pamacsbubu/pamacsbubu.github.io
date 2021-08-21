@@ -32,38 +32,38 @@
 }
 .ujpest2 {
     font-size: 100%;
-    color:black;
+    color:blue;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .ujpest3 {
     font-size: 100%;
-    color:black;
+    color:blue;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .ujpest4 {
     font-size: 100%;
     font-style: oblique;
-    color:black;
+    color:blue;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .ujpest5 {
     font-size: 100%;
-    color:black;
+    color:blue;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .ujpest6 {
     font-size: 100%;
-    color:black;
+    color:blue;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .ujpest7 {
     font-size: 100%;
-    color:black;
+    color:blue;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -100,7 +100,6 @@
 .fokep {
   position: relative;
   text-align: center;
-  color: white;
 }
 
 /* Bottom left text */
@@ -116,7 +115,7 @@
   position: absolute;
   top: 8px;
   left: 16px;
-  color: black;
+  color: blue;
 }
 
 /* Top right text */
