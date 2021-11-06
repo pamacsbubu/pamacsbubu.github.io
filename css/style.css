@@ -3,7 +3,7 @@
     src:url("fonts/MC/MC.ttf");
     font-weight: : 200;
 }
-    @font-face {
+@font-face {
     font-family: "ca";
     src:url("fonts/ca/ca.ttf");
     font-weight: : 200;
@@ -26,26 +26,29 @@
 }
 .ujpest1 {
     font-size: 100%;
-    color:blue;
+    color:rgb(11,0,25);
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .ujpest2 {
     font-size: 100%;
-    color:blue;
+    color:rgb(222,2,222);
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .ujpest3 {
     font-size: 100%;
-    color:blue;
-    text-align: center;
+    font-weight: bolder;
+    color:rgb(0,0,0);
+    text-align:left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .ujpest4 {
     font-size: 100%;
+    font-weight: bolder;
     font-style: oblique;
-    color:blue;
+    /*color:blue; */
+    color: rgb(55,0,155);
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -72,15 +75,52 @@
     background-color: hsla(214, 79%, 50%, 0.535); /* Green */
     border: 1px;
     border-style: solid;
-    color: black;
+    border-color: rgb(255,0,255);
+    color: rgb(25,0,25);
     padding:0;
     text-align: center;
     display: inline-block;
     font-size:xx-large;
     font-weight: bolder;
-    margin: 24px 2px;
+    /*margin: 24px 2px;*/
+    margin-left: 3%;
     cursor: pointer;
-    border-radius: 24px;
+    border-radius: 46%;
+  }
+.gomb2 {
+    font-family:CA, Helvetica, sans-serif;
+  background-color: hsla(214, 79%, 50%, 0.535);
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(255,0,255);
+    color: rgb(25,0,25);
+    padding:0;
+    text-align: center;
+    display: inline-block;
+    font-size:xx-large;
+    font-weight: bolder;
+    /* margin: 24px 2px; */
+    margin-left: 2%;
+    cursor: pointer;
+    /* border-radius: 24px; */
+    border-radius: 46%;
+  }
+  
+.gomb3 {
+    font-family:CA, Helvetica, sans-serif;
+  background-color: hsla(214, 79%, 50%, 0.535);
+    border: 1px;
+    border-radius: 46%;
+    border-style: solid;
+    border-color: rgb(255,0,255);
+    color: rgb(25,0,25);
+    text-align: center;
+    font-size:xx-large;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-left: 2%;
+    /*margin-left: 5%;*/
+    /*float: right;*/
   }
 .container {
     border-color: slateblue;
@@ -115,7 +155,7 @@
   position: absolute;
   top: 8px;
   left: 16px;
-  color: blue;
+/*  color: blue; /*
 }
 
 /* Top right text */
