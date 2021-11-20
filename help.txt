@@ -1,0 +1,27 @@
+apt update
+apt upgrade
+apt install openssh
+
+
+
+first git init , clone ,add , commit ,pull ,push
+
+
+
+
+run :
+
+                    eval "$(ssh-agent)"
+
+run : 
+ ssh-add misikey
+
+mv = rename
+cp = copy
+rm = delete
+
+cd ~/.. (termux root dir)
+nano usr/etc/bash.bashrc (edit file for autorun)
+cd storage/work/github
+eval "$(ssh-agent -s)"
+ssh-add misikey
