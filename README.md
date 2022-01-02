@@ -1,2 +1,3 @@
 # pamacsbubu.github.io
 kutyakozmi
+.
